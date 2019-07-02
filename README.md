@@ -13,6 +13,3 @@
   <img src="https://github.com/ProgrammerLie/zaxiang/blob/master/image/wx-02.gif" width="200"/>
   <img src="https://github.com/ProgrammerLie/zaxiang/blob/master/image/wx-03.gif" width="200"/>
 </center>
-![image](https://github.com/ProgrammerLie/zaxiang/blob/master/image/wx-01.gif)
-![image](https://github.com/ProgrammerLie/zaxiang/blob/master/image/wx-02.gif)
-![image](https://github.com/ProgrammerLie/zaxiang/blob/master/image/wx-03.gif)
