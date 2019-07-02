@@ -9,7 +9,7 @@
 
 ### 图片展示：
 <figure class="third">
-  <img src="https://github.com/ProgrammerLie/zaxiang/blob/master/image/wx-01.gif" width="200"/>
-  <img src="https://github.com/ProgrammerLie/zaxiang/blob/master/image/wx-02.gif" width="200"/>
-  <img src="https://github.com/ProgrammerLie/zaxiang/blob/master/image/wx-03.gif" width="200"/>
+  <img src="https://github.com/ProgrammerLie/zaxiang/blob/master/image/wx-01.gif" width="200" style="flaot:right"/>
+  <img src="https://github.com/ProgrammerLie/zaxiang/blob/master/image/wx-02.gif" width="200" style="flaot:left"/>
+  <img src="https://github.com/ProgrammerLie/zaxiang/blob/master/image/wx-03.gif" width="200" style="flaot:left"/>
 </figure>
