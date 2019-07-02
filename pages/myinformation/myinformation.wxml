@@ -1,0 +1,15 @@
+<view>
+  <view class='box'>
+    <view class='box_img'>
+      <image class="avatar" src="{{userInfo.avatarUrl}}" background-size="cover"></image>
+    </view>
+    <view class='top-g'>个人基本信息</view>
+    <view class='nr'>
+      <text class=''>微信名称：{{userInfo.nickName}}</text>
+      <view>姓名：XXX</view>
+      <view>性别：男</view>
+      <view>出生年月：XXX</view>
+      <text>住址:XXX</text>
+    </view>
+  </view>
+</view>
