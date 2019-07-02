@@ -8,8 +8,6 @@
 - 我的：显示用户当前授权信息 (个人信息)，我的书架，关于我们
 
 ### 图片展示：
-![Alt](http://r.photo.store.qq.com/psb?/V146qHRC33qFJ8/0q5ndhj8BKe87dYs8tXU1nxxcR6QhZhU4.kl.sqjKBo!/r/dL4AAAAAAAAA)
-![Alt](http://r.photo.store.qq.com/psb?/V146qHRC33qFJ8/vkdNCzgK5QwF*c6PLbD8yAprOXjwFRYqMIOCtEk.b4g!/r/dL8AAAAAAAAA)
-![Alt](http://r.photo.store.qq.com/psb?/V146qHRC33qFJ8/pNmg9SXrU4cIe.aMaidJakpQf9ZDkj7gu7KbFiXk2U8!/r/dL8AAAAAAAAA)
-![Alt](http://r.photo.store.qq.com/psb?/V146qHRC33qFJ8/Q7RNTm8jE5Qp.YIxcnkaLCGGWDIfRvmifyQJDd1EIpg!/r/dFQBAAAAAAAA)
-![Alt](http://r.photo.store.qq.com/psb?/V146qHRC33qFJ8/74hkl4F5pc6hvYyOuhB1OI0EVkg9f2ntO3ZYjw4iU.M!/r/dFQBAAAAAAAA)
+![Alt](http://m.qpic.cn/psb?/V146qHRC33qFJ8/YmhHsY2p.pmRJd7L46HE96*XWNMkQdeoVq.io7cavO8!/c/dE8BAAAAAAAA&bo=jgHDAgAAAAACB20!&rf=viewer_4)
+![Alt](http://m.qpic.cn/psb?/V146qHRC33qFJ8/C9aEBdLvDn9OihSX5dSCGVFvWySjKlnznTpVsDwSBw4!/c/dFMBAAAAAAAA&bo=jAHDAgAAAAACVz8!&rf=viewer_4)
+![Alt](http://m.qpic.cn/psb?/V146qHRC33qFJ8/gUE*nInvgCZ4osUCr2VW3uFnUhnDAapYt.pEmes7hcI!/c/dE0BAAAAAAAA&bo=jAHDAgAAAAACZw8!&rf=viewer_4)
