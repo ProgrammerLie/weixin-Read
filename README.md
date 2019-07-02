@@ -8,8 +8,8 @@
 - 我的：显示用户当前授权信息 (个人信息)，我的书架，关于我们
 
 ### 图片展示：
-<figure class="third">
-  <img src="https://github.com/ProgrammerLie/zaxiang/blob/master/image/wx-01.gif" width="200" style="flaot:right"/>
-  <img src="https://github.com/ProgrammerLie/zaxiang/blob/master/image/wx-02.gif" width="200" style="flaot:left"/>
-  <img src="https://github.com/ProgrammerLie/zaxiang/blob/master/image/wx-03.gif" width="200" style="flaot:left"/>
-</figure>
+<div align="center">
+  <img src="https://github.com/ProgrammerLie/zaxiang/blob/master/image/wx-01.gif" width="200"/>
+  <img src="https://github.com/ProgrammerLie/zaxiang/blob/master/image/wx-02.gif" width="200"/>
+  <img src="https://github.com/ProgrammerLie/zaxiang/blob/master/image/wx-03.gif" width="200"/>
+</div>
