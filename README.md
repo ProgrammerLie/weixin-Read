@@ -8,6 +8,5 @@
 - 我的：显示用户当前授权信息 (个人信息)，我的书架，关于我们
 
 ### 图片展示：
-![Alt](http://m.qpic.cn/psb?/V146qHRC33qFJ8/gUE*nInvgCZ4osUCr2VW3uFnUhnDAapYt.pEmes7hcI!/b/dE0BAAAAAAAA&bo=jAHDAgAAAAACZw8!&rf=viewer_4)
 ![Alt](http://m.qpic.cn/psb?/V146qHRC33qFJ8/C9aEBdLvDn9OihSX5dSCGVFvWySjKlnznTpVsDwSBw4!/c/dFMBAAAAAAAA&bo=jAHDAgAAAAACVz8!&rf=viewer_4)
 ![Alt](http://m.qpic.cn/psb?/V146qHRC33qFJ8/gUE*nInvgCZ4osUCr2VW3uFnUhnDAapYt.pEmes7hcI!/c/dE0BAAAAAAAA&bo=jAHDAgAAAAACZw8!&rf=viewer_4)
