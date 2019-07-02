@@ -6,3 +6,10 @@
 - 搜索页面：输入小说关键字即可查询，搜索栏下方显示最近热搜小说点击即可查看，点击换一换即可刷新内容；搜索历史(点击清空即可清除搜索历史记录)。
 - 书架：在小说详情页面点击加入书架即可收藏至书架界面，左上方可编辑移除不需要的小说，下拉可加载刷新收藏小说。
 - 我的：显示用户当前授权信息 (个人信息)，我的书架，关于我们
+
+### 图片展示：
+![Alt](http://r.photo.store.qq.com/psb?/V146qHRC33qFJ8/0q5ndhj8BKe87dYs8tXU1nxxcR6QhZhU4.kl.sqjKBo!/r/dL4AAAAAAAAA)
+![Alt](http://r.photo.store.qq.com/psb?/V146qHRC33qFJ8/vkdNCzgK5QwF*c6PLbD8yAprOXjwFRYqMIOCtEk.b4g!/r/dL8AAAAAAAAA)
+![Alt](http://r.photo.store.qq.com/psb?/V146qHRC33qFJ8/pNmg9SXrU4cIe.aMaidJakpQf9ZDkj7gu7KbFiXk2U8!/r/dL8AAAAAAAAA)
+![Alt](http://r.photo.store.qq.com/psb?/V146qHRC33qFJ8/Q7RNTm8jE5Qp.YIxcnkaLCGGWDIfRvmifyQJDd1EIpg!/r/dFQBAAAAAAAA)
+![Alt](http://r.photo.store.qq.com/psb?/V146qHRC33qFJ8/74hkl4F5pc6hvYyOuhB1OI0EVkg9f2ntO3ZYjw4iU.M!/r/dFQBAAAAAAAA)
